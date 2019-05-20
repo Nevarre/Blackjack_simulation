@@ -2,9 +2,9 @@
 Blackjack simulation using python 3
 
 This project is a python script that simulates a game of Blackjack between 2-5 players. In a standard game of Blackjack, 
-each player starts with two cards. The player decides whether to draw another card (or \emph{hit}) depending on whether 
-the sum of the values of the hand adds up to 21 (or \emph{Blackjack}). The goal is to have the hand sum up to as close to 
-21 as possible but without going 21 (which is a \emph{bust}). The simulation shuffles a standard deck of cards and each 
+each player starts with two cards. The player decides whether to draw another card (or hit) depending on whether 
+the sum of the values of the hand adds up to 21 (Blackjack). The goal is to have the hand sum up to as close to 
+21 as possible but without going 21 (which is a bust). The simulation shuffles a standard deck of cards and each 
 player is controlled by the computer AI. The computer AI uses a card counting system that allows it to calculate the 
 probability of reaching Blackjack each round and uses that probability to decide whether it's safe to take a hit or not. 
 
